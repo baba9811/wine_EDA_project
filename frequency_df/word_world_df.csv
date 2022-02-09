@@ -1,0 +1,71 @@
+,0,1,region
+0,acidity,21482,Europe
+1,fruit,21424,Europe
+2,aromas,19919,Europe
+3,palate,19817,Europe
+4,tannins,17491,Europe
+5,ripe,17001,Europe
+6,finish,13277,Europe
+7,black,11709,Europe
+8,cherry,11262,Europe
+9,fresh,10900,Europe
+0,fruit,18696,North America
+1,cherry,13001,North America
+2,finish,12264,North America
+3,palate,11788,North America
+4,aromas,11322,North America
+5,acidity,11095,North America
+6,tannins,10870,North America
+7,black,10785,North America
+8,oak,10098,North America
+9,dry,8156,North America
+0,aromas,6338,South America
+1,finish,5910,South America
+2,palate,4409,South America
+3,berry,3540,South America
+4,plum,2766,South America
+5,herbal,2478,South America
+6,fruit,1993,South America
+7,oak,1916,South America
+8,nose,1912,South America
+9,notes,1879,South America
+0,finish,1932,Oceania
+1,fruit,1737,Oceania
+2,notes,1331,Oceania
+3,aromas,831,Oceania
+4,palate,820,Oceania
+5,hints,761,Oceania
+6,long,706,Oceania
+7,tannins,600,Oceania
+8,vanilla,563,Oceania
+9,cherry,544,Oceania
+0,finish,781,Africa
+1,palate,690,Africa
+2,fruit,620,Africa
+3,notes,579,Africa
+4,aromas,523,Africa
+5,spice,519,Africa
+6,nose,430,Africa
+7,tannins,400,Africa
+8,black,393,Africa
+9,acidity,378,Africa
+0,cherry,439,Balkan Peninsula
+1,aromas,427,Balkan Peninsula
+2,palate,382,Balkan Peninsula
+3,red,326,Balkan Peninsula
+4,fruit,323,Balkan Peninsula
+5,finish,322,Balkan Peninsula
+6,white,289,Balkan Peninsula
+7,spice,283,Balkan Peninsula
+8,black,273,Balkan Peninsula
+9,nose,261,Balkan Peninsula
+0,cherry,420,Asia
+1,finish,418,Asia
+2,black,345,Asia
+3,tannins,322,Asia
+4,palate,235,Asia
+5,fruit,220,Asia
+6,aromas,213,Asia
+7,notes,195,Asia
+8,pepper,145,Asia
+9,soft,144,Asia
